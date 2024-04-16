@@ -12,7 +12,7 @@ public class Main {
 			n=input.nextInt();
 		}
 		Scanner inputLine = new Scanner(System.in);
-		for(int i=n;i>0;i++) {
+		for(int i=n;i>0;i--) {
 			
 			String line = new String(inputLine.nextLine());
 			String[] stringArray=line.split(" ");
