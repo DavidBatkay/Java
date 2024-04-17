@@ -15,8 +15,7 @@ public class Main {
 		for(int i=n;i>0;i--) {
 			
 			String line = new String(inputLine.nextLine());
-			String[] stringArray=line.split(" ");
-			hSet.add(stringArray[stringArray.length-1]);
+			hSet.add(line);
 			System.out.println(hSet.size());
 		}
 		input.close();
