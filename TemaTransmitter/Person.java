@@ -8,7 +8,6 @@ public class Person {
 	
 	public Person(String nume) {
 		this.nume = nume;
-		this.transmitter = null;
 	}
 
 	public void setTransmitter(Transmitter transmitter) {
