@@ -1,1 +1,1 @@
-Toate proiectele Java pentru cursul Introducere In Programarea Calculatoarelor An1 Sem2 - Batkay David
+All Java projects for Y1 S2 of university
